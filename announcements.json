@@ -1,0 +1,11 @@
+{
+  "avisos": [
+    {
+      "id": 1,
+      "titulo": "Bem-vindo ao payPASS!",
+      "mensagem": "Obrigado por usar o payPASS. Em breve, planos de assinatura com recursos exclusivos.",
+      "tipo": "info",
+      "ativo": true
+    }
+  ]
+}
