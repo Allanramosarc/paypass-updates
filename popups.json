@@ -1,0 +1,29 @@
+{
+  "popup_abertura": {
+    "ativo": true,
+    "id": "promo-julho-2026",
+    "titulo": "🚀 Conheça o payPASS Pro",
+    "mensagem": "Tenha acesso a relatórios avançados, backup automático na nuvem e suporte prioritário. Experimente grátis por 7 dias.",
+    "imagem": "",
+    "botao_principal_texto": "Quero experimentar grátis",
+    "botao_principal_link": "https://seu-site.com/planos",
+    "botao_secundario_texto": "Agora não",
+    "mostrar_ate": "2026-07-31",
+    "frequencia": "uma_vez_por_dia",
+    "versoes_alvo": []
+  },
+
+  "popup_fechamento": {
+    "ativo": true,
+    "id": "saida-julho-2026",
+    "titulo": "Antes de sair... 👋",
+    "mensagem": "Você sabia que o payPASS Pro oferece relatórios de lucro e backup na nuvem? Não perca seus dados.",
+    "imagem": "",
+    "botao_principal_texto": "Ver planos",
+    "botao_principal_link": "https://seu-site.com/planos",
+    "botao_secundario_texto": "Fechar mesmo assim",
+    "mostrar_ate": "2026-07-31",
+    "frequencia": "uma_vez_por_dia",
+    "versoes_alvo": []
+  }
+}
